@@ -1,0 +1,2 @@
+# flaresolverr
+Flaresolverr on TrueNAS
